@@ -9,3 +9,8 @@
 | **FastAPI SQLite API** | FastAPI + SQLite | REST API | Web API with full CRUD |
 
 ---
+## Project Overview:
+
+-<a href="https://github.com/Donovandonz/Jomhack-Python-Bootcamp---MongoDB-Project">MongoDB-CRUD-Manager</a>
+
+-<a href="https://github.com/Donovandonz/Jomhack-Python-sqlite-api">FastAPI SQLite API</a>
