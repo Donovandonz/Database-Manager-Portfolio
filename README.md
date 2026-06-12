@@ -11,6 +11,16 @@
 
 ---
 
+### 🌟 Highlights
+
+- **3 different database approaches** (CLI, local API, cloud API)
+- **Both SQL and NoSQL** databases
+- **Automatic API documentation** (Swagger UI)
+- **Secure credential management** (.env files)
+- **Full CRUD operations** on all projects
+
+---
+
 ## Project Overview:
 
 -<a href="https://github.com/Donovandonz/Jomhack-Python-Bootcamp---MongoDB-Project">MongoDB-CRUD-Manager</a>
